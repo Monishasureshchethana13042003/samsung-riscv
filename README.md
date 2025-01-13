@@ -1,11 +1,9 @@
-Basic Details About Me
+#Basic Details About Me
 Name: Monisha Suresh
 College: Vidyavardhaka College of Engineering
-Email ID: gokulgr993@gmail.com
-LinkedIn Profile: Gokul GR
+Email ID: monishasureshchethana@gmail.com
+LinkedIn Profile: Monisha Suresh
 
-Task 1: Install the RISC-V toolchain using the VDI link and Perform GCC Compilation In Both Normal gcc-compiler and RISC-V Based gcc compiler and check the result.
-Task 2:: To write a simple C program and to compile the C program using RISC-V GCC/SPIKE with the O1 and Ofast optimization flags and to generate and collect the RISC-V object dump for both -O1 and -Ofast
 # Task1
 A C program computes the sum of integers from 1 to N by inputting N, using a for loop to calculate the sum, and displaying the result. The program is compiled using a RISC-V compiler. The generated assembly code is inspected ,efficiency is analyzed by counting instructions in the main function with optimizations: O1-15 and Ofast-12 instructions.
 # Image Descriptions
