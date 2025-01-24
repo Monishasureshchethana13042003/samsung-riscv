@@ -1,0 +1,1 @@
+Installed Icarus Verilog and GTKWave to facilitate the simulation process. Downloaded the netlist required for simulation and used it to simulate the Verilog code of the RISC-V processor. Carefully observed and analyzed the waveforms generated for each instruction of the RISC-V processor to verify its functionality and behavior.
